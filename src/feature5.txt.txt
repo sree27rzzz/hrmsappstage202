@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 feature5
 second commit changes
+=======
+feature5 changed
+>>>>>>> 823832ab6900d67cbc4088c10a7a7778e761ab98
